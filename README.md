@@ -1,9 +1,11 @@
 # Movie Finder
 Movie Finder is a Web App that shows the user the Poster and Plot of a requested Movie. The user has to enter the movie name on the Input field, then click  in the SEARCH button.
+Note that this repo code DOES NOT has the API Key, you can get yours at [Rapid API](https://rapidapi.com/hmerritt/api/imdb-internet-movie-database-unofficial/details) .
 
 ## Getting Started 
 This webapp was created with ReactJS.
 To get started, clone this repo and run npm start.
+
 
 ### How long did you spend on the challenge?
 I spent around 4.5 hours on this challenge.
